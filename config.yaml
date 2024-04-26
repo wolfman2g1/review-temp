@@ -1,0 +1,7 @@
+baseURL: 'https://example.org/'
+languageCode: 'en-us'
+title: 'My review site'
+markup:
+  goldmark:
+    renferer:
+      unsafe: true
